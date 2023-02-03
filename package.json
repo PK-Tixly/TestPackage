@@ -1,0 +1,19 @@
+{
+  "name": "@pk-tixly/testpackage",
+  "version": "1.0.0",
+  "description": "Test Package for Tixly",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PK-Tixly/TestPackage.git"
+  },
+  "author": "PK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PK-Tixly/TestPackage/issues"
+  },
+  "homepage": "https://github.com/PK-Tixly/TestPackage#readme"
+}
